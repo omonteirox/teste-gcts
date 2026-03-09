@@ -2,6 +2,12 @@
   "name": "omonteirox-teste-gcts",
   "version": "1.0.0",
   "description": "omonteirox-teste-gcts",
+  "configurations": [
+    {
+      "key": "CLIENT_VCS_LOGLVL",
+      "value": "info"
+    }
+  ],
   "repositoryLayout": {
     "format": "json",
     "formatVersion": "6",
